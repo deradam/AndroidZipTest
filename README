@@ -1,1 +1,13 @@
-This file was created by IntelliJ IDEA 12.0.1 for binding GitHub repository
+This project tests if the awesome Zeroturnaround library zt-zip (https://github.com/zeroturnaround/zt-zip) is working on Android.
+
+The punch line -  Yes it does *yay* :)
+
+You need to add the following libraries to your Android project:
+
+* commons-io-1.4.jar
+* slf4j-api-1.6.3.jar
+* zt-zip-1.5.jar
+
+That's it. Now you can follow the documentation how to use the library from the project's page.
+
+Disclaimer: The code was just a super quick hack to test the lib. Don't copy that for production ;)
